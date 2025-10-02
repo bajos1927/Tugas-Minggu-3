@@ -1,0 +1,15 @@
+/* Terapkan font sans-serif untuk seluruh teks */
+body {
+  font-family: sans-serif;
+  background-color: #f5faff; /* latar belakang lembut */
+}
+
+/* Ubah warna teks heading menjadi biru */
+h1 {
+  color: blue;
+}
+
+/* Atur jarak antar paragraf */
+p {
+  margin: 12px 0;
+}
